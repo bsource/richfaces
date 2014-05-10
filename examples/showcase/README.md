@@ -5,7 +5,7 @@ RichFaces Showcase
 
 **Online demo <http://showcase.richfaces.org>**
 
-* RichFaces 5.0.0.Alpha4-BS1
+* RichFaces 5.0.0.BS-SNAPSHOT
 * <http://richfaces.org>
 * This software is distributed under the terms of the FSF Lesser Gnu Public License (see lgpl.txt)
     
